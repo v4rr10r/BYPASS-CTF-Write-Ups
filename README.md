@@ -9,3 +9,5 @@ Here you’ll find detailed, step-by-step solutions across various categories in
 Dive in and explore how each challenge was tackled from uncovering hidden codes to decoding pirate secrets!  
 
 Happy reading, and may your flags always be captured! ⚓
+
+![My Rank](rank.jpg)
